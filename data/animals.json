@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Lolo",
+      "species": "Okapi",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
